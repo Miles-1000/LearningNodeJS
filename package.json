@@ -1,0 +1,24 @@
+{
+  "name": "learningnodejs",
+  "version": "1.0.0",
+  "description": "Just programs I'm making learning to use Node JS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Miles-1000/LearningNodeJS.git"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "ejs"
+  ],
+  "author": "Miles-1000",
+  "license": "GPL-2.0-or-later",
+  "bugs": {
+    "url": "https://github.com/Miles-1000/LearningNodeJS/issues"
+  },
+  "homepage": "https://github.com/Miles-1000/LearningNodeJS#readme"
+}
